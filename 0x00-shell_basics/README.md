@@ -7,3 +7,4 @@
 - Long format
 - with user and group IDs displayed numerically
 - And hidden files
+6-firstdirectory: Creates a directory named my_first_directory in /tmp/ directory
