@@ -6,3 +6,4 @@ Task 4: Create an empty file
 Task 5: Adds execute permissions to the owner of the file
 Task 6: Adds execute multiple permissions to specified users
 Task 7: Adds execute permissions to all users
+Task 8: Sets permissions to the file
