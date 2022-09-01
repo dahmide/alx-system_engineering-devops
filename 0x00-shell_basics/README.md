@@ -6,5 +6,6 @@
 5-listfilesdigitonly: Display current directory contents <br>
 - Long format
 - with user and group IDs displayed numerically
-- And hidden files
+- And hidden files <br>
 6-firstdirectory: Creates a directory named my_first_directory in /tmp/ directory
+7-movethatfile: Move the file betty from /tmp/ to /tmp/my_first_directory
