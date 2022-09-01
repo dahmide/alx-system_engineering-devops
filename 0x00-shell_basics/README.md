@@ -11,4 +11,5 @@
 7-movethatfile: Move the file betty from /tmp/ to /tmp/my_first_directory <br>
 8-firstdelete: Delete the betty file in /tmp/my_first_directory <br>
 9-firstdirdeletion: Delete the directoru my_first_directory in /tmp <br>
-10-back: Change the working directory to the previous one
+10-back: Change the working directory to the previous one <br>
+11-lists: Lists all files in the given order
