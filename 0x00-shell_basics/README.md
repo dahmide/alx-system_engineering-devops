@@ -13,4 +13,5 @@
 9-firstdirdeletion: Delete the directoru my_first_directory in /tmp <br>
 10-back: Change the working directory to the previous one <br>
 11-lists: Lists all files in the given order <br>
-12-iamafile: Prints the type of file
+12-iamafile: Prints the type of file <br>
+13-symbolic_link: Create a symbolic link the the current directory <br>
