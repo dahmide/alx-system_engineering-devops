@@ -17,3 +17,7 @@ And hidden files <br>
 13-symbolic_link: Create a symbolic link the the current directory <br>
 14-copy_html: Copy all html from working directory to parent working directory <br>
 100-lets_move: Move all files that begin with an uppercase <br>
+101-clean_emacs: Delete all files in the current directory that ends with ~ <br>
+102-tree: Create specified directories in the current directory <br>
+103-commas: List all files and directories in the current directory separated by comma <br>
+school.mgc: Create a magic file that can be used to detect Scholl datat files
