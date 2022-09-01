@@ -15,3 +15,4 @@
 11-lists: Lists all files in the given order <br>
 12-iamafile: Prints the type of file <br>
 13-symbolic_link: Create a symbolic link the the current directory <br>
+14-copy_html: Copy all html from working directory to parent working directory
