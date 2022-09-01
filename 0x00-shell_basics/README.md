@@ -4,9 +4,9 @@
 3-listfiles: Display current directory contents in a long format <br>
 4-listmorefiles: Display current directory contents, including hidden files <br>
 5-listfilesdigitonly: Display current directory contents <br>
-- Long format
-- with user and group IDs displayed numerically
-- And hidden files <br>
+Long format, 
+with user and group IDs displayed numerically,
+And hidden files <br>
 6-firstdirectory: Creates a directory named my_first_directory in /tmp/ directory
 7-movethatfile: Move the file betty from /tmp/ to /tmp/my_first_directory <br>
 8-firstdelete: Delete the betty file in /tmp/my_first_directory <br>
@@ -15,4 +15,5 @@
 11-lists: Lists all files in the given order <br>
 12-iamafile: Prints the type of file <br>
 13-symbolic_link: Create a symbolic link the the current directory <br>
-14-copy_html: Copy all html from working directory to parent working directory
+14-copy_html: Copy all html from working directory to parent working directory <br>
+100-lets_move: Move all files that begin with an uppercase <br>
