@@ -1,2 +1,2 @@
 #!/bin/bash
-find -mindepth 1 -type d | wc -l
+find d* -maxdepth 1 -name workspace -type d -exec chmod ugo+x "{}" \;
