@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ug+rw hello
+unmask olleh | chmod 
