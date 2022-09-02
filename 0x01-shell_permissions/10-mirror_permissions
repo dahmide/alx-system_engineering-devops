@@ -1,2 +1,2 @@
 #!/bin/bash
-unmask olleh | chmod 
+unmask olleh | chmod hello 
