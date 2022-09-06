@@ -11,3 +11,5 @@ Task 9: Duplicates the last line of the file `iacta` <br>
 Task 10: Deletes all the regular files (not the directories) with a `.js` extension that are present in the current directory and all its subfolders. <br>
 Task 11: Counts the number of directories and sub-directories in the current directory. <br>
 Task 12: Displays the 10 newest files in the current directory. <br>
+Task 13: Takes a list of words as input and prints only words that appear exactly once. <br>
+
