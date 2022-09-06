@@ -20,4 +20,5 @@ Task 18: Display all lines of the file `/etc/ssh/sshd_config` starting with a le
 Task 19: Replace all characters `A` and `c` from input to `Z` and `e` respectively. <br>
 Task 20: Create a script that removes all letters `c` and `C` from input. <br>
 Task 21: Reverse its input <br>
+Task 22: Displays all users and their home directories, sorted by users. <br>
 
