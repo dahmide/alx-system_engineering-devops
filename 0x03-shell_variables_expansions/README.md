@@ -5,4 +5,5 @@ Task 3: Counts the number of directories in the PATH. <br>
 Task 4: Lists environment variables. <br>
 Task 5: Lists all local variables and environment variables, and functions. <br>
 Task 6: Creates a new local variable. <br>
+Task 7: Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line. <br>
 
