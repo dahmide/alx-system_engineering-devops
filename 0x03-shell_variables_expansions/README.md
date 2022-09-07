@@ -9,4 +9,5 @@ Task 7: Task 6: Creates a new global variable. <br>
 Task 8: Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line. <br>
 Task 9: Prints the result of POWER divided by DIVIDE, followed by a new line. <br>
 Task 10: Displays the result of BREATH to the power LOVE. <br>
+Task 11: Converts a number from base 2 to base 10. <br>
 
