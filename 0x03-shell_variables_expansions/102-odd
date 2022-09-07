@@ -1,2 +1,2 @@
 #!/bin/bash
-echo perl -ne "printf ($.%2)"
+perl -ne "printf ($.%2)"
